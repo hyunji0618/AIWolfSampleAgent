@@ -1,0 +1,7 @@
+env
+AIWolf-ver0.6.3
+AIWolf
+docs
+__pycache__
+.vscode
+setup.py
